@@ -1,6 +1,6 @@
 $(function(){
 
-    var letras = ["letras/a.jpg","letras/b.jpg","letras/c.jpg","letras/d.jpg","letras/e.jpg"];
+    var letras = ["Letras/a.jpg","Letras/b.jpg","Letras/c.jpg","Letras/d.jpg","Letras/e.jpg"];
 
     var random = Math.floor(Math.random()*(5))
     
