@@ -5,11 +5,11 @@ body{
 }
 
 h1 {
-	align: center;
 	color: #FFFFFF;
 	background-color: #ffbd33;
 	padding: 10px;
 	border-radius:0 20px;
+	align-content: center;
 }
 
 
